@@ -56,7 +56,7 @@ export default function sign() {
                 </div>
                 <div>
                     <h3>Download App</h3>
-                    <p>Save $5 with App New User Only</p>
+                    <p>Save $5 with Ap New User Only</p>
                     <div className='flex items-center justify-around'>
                         <img src="/Qr Code.png" className='mt-5' alt="" />
                         <img src="/Frame 718.png" className='mt-5' alt="" />
