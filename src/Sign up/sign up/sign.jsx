@@ -49,14 +49,14 @@ export default function sign() {
                 </div>
                 <div>
                     <h3 className='mt-5'>Quick Link</h3>
-                    <p className='mt-5'>Privacy Policy</p>
+                    <p className='mt-5'>Privacy Police</p>
                     <p className='mt-5'>Terms Of Use</p>
                     <p className='mt-5'>FAQ</p>
                     <p className='mt-5'> Contact</p>
                 </div>
                 <div>
                     <h3>Download App</h3>
-                    <p>Save $3 with App New User Only</p>
+                    <p>Save $4 with App New User Only</p>
                     <div className='flex items-center justify-around'>
                         <img src="/Qr Code.png" className='mt-5' alt="" />
                         <img src="/Frame 718.png" className='mt-5' alt="" />
