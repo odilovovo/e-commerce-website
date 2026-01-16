@@ -16,7 +16,7 @@ export default function sign() {
                 <img src="/Side Image.png" alt="" width={500} />
                 <div className='flex flex-col  mt-8'>
                     <h2 className='text-4xl mt-8'>Create an account</h2>
-                    <p className='text-2xl mt-8'>Enter your details below</p>
+                    <p className='text-2xl mt-8'>Enter your detail below</p>
                     <input type="text" placeholder=' Name' className='outline-none mt-8 border-b-2 border-gray-500' width={400} />
                     <input type="text" placeholder='Email or Phone Number' className='outline-none border-b-2 mt-8 border-gray-500' width={400} />
                     <input type="text" placeholder='Password' className='outline-none mt-8 border-b-2 border-gray-500' width={400} />
@@ -42,7 +42,7 @@ export default function sign() {
                 <div>
                     <h3 className='mt-5'>Account</h3>
                     <p className='mt-5'>My Account</p>
-                    <p className='mt-5'>Login / Register</p>
+                    <p className='mt-5'>Login / Registe</p>
                     <p className='mt-5'>Cart</p>
                     <p className='mt-5'>Wishlist</p>
                     <p className='mt-5'>Shop</p>
@@ -56,7 +56,7 @@ export default function sign() {
                 </div>
                 <div>
                     <h3>Download App</h3>
-                    <p>Save $4 with App New User Only</p>
+                    <p>Save $5 with App New User Only</p>
                     <div className='flex items-center justify-around'>
                         <img src="/Qr Code.png" className='mt-5' alt="" />
                         <img src="/Frame 718.png" className='mt-5' alt="" />
