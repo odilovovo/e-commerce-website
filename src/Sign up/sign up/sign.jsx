@@ -58,14 +58,15 @@ export default function sign() {
                     <h3>Download App</h3>
                     <p>Save $5 with Ap New User Only</p>
                     <div className='flex items-center justify-around'>
-                        <img src="/Qr Code.png" className='mt-5' alt="" />
+                        <img src="/images/Qr Code.png className='mt-5' " />
                         <img src="/Frame 718.png" className='mt-5' alt="" />
                     </div>
                     <div className='flex items-center justify-around'>
-                        <img src="/Icon-Facebook.png" className='mt-5' alt="" />
-                        <img src="/icon-instagram.png" className='mt-5' alt="" />
-                        <img src="/Icon-Linkedin.png" className='mt-5' alt="" />
-                        <img src="/Icon-Twitter.png" className='mt-5' alt="" />
+                        <img src="/images/Icon-Facebook.png" />
+                        <img src="/images/Icon-instagram.png" />
+                        <img src="/images/Icon-Linkedin.png" />
+                        <img src="/images/Icon-twitter.png" />
+
                     </div>
                 </div>
             </div>
